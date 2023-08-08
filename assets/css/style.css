@@ -184,7 +184,7 @@ html {
     position: relative;
     margin-top: 64px;
     padding-top: 50%;
-    background: url('../img/slider/slider1.png') top center / cover no-repeat;
+    background: url(../img/slider/slider1.png) top center / cover no-repeat;
 }
 
 .text-content {
